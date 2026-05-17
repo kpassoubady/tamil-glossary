@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Claude Code internal memory
+.claude/
+
+# Copyrighted reference PDFs (see references/reference-location.txt for source URLs)
+references/
+
+
