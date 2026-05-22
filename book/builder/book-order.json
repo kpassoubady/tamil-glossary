@@ -103,6 +103,13 @@
       "note": "PNG file is required for EPUB format cover"
     },
     {
+      "section": "அர்ப்பணம்",
+      "files": [
+        "book/00-dedication.md"
+      ],
+      "excludeFromToc": true
+    },
+    {
       "section": "முன்னுரை — Preface",
       "tocLabel": "முன்னுரை",
       "files": [
