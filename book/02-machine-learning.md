@@ -1,15 +1,15 @@
 # 2. இயந்திரக் கற்றல் — Machine Learning
 
-<!-- IMAGE: Data flowing through a funnel, transforming into patterns — scatter plot becoming organized clusters, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
-![இயந்திரக் கற்றல் — அத்தியாயப் படம்](images/hero-ch02.png)
-<!-- END IMAGE -->
-
 > **🎯 கற்றல் நோக்கங்கள்**
 > - மேற்பார்வையிட்ட கற்றல் (Supervised), மேற்பார்வையற்ற கற்றல் (Unsupervised) உள்ளிட்ட கற்றல் முறைகளின் வேறுபாடுகளை அறிதல்
 > - தரவுக்கணம் (Dataset), தரவு விரிவாக்கம் (Data Augmentation) போன்ற தரவுச் சொற்களைப் புரிந்துகொள்ளுதல்
 > - மிகைப்பொருத்தம் (Overfitting), பண்பெடுப்பு (Feature Extraction) ஆகிய மாதிரி நடத்தைச் சொற்களை அறிதல்
 
 ## "தரவிலிருந்து கற்கும் கலை"
+
+<!-- IMAGE: Data flowing through a funnel, transforming into patterns — scatter plot becoming organized clusters, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
+<img src="images/hero-ch02.png" alt="இயந்திரக் கற்றல் — அத்தியாயப் படம்" style="float:right; margin-left:20px; width:200px; border-radius:8px;">
+<!-- END IMAGE -->
 
 ஒரு குழந்தை தமிழ் எழுத்துகளைக் கற்கிறது. "அ" என்ற எழுத்தை நூற்றுக்கணக்கான முறை பார்க்கிறது: கரும்பலகையில், நோட்புக்கில், புத்தகத்தில். ஒவ்வொரு முறையும் எழுத்தின் வடிவம் சற்றே வேறுபடலாம், ஆனால் குழந்தை படிப்படியாக "அ" என்ற எழுத்தின் சாரத்தைப் புரிந்துகொள்கிறது. இது மேற்பார்வையிட்ட கற்றல் (Supervised Learning): எடுத்துக்காட்டுகளையும் அவற்றின் பெயர்களையும் கொடுத்துக் கற்பித்தல்.
 
@@ -33,10 +33,10 @@
 **Semi-supervised Learning — அரைமேற்பார்வைக் கற்றல்**
 அரை (half/semi) + மேற்பார்வை (supervision) + கற்றல் (learning). சிறிது அடையாளமிட்ட தரவும் பெரும்பான்மை அடையாளமிடாத தரவும் கலந்த கற்றல் முறை.
 
-![கற்றல் முறைகள் வரைபடம்](diagrams/02-learning-paradigms.png)
-
 **Self-supervised Learning — தன்மேற்பார்வைக் கற்றல்**
 தன் (self) + மேற்பார்வை (supervision) + கற்றல் (learning). அடையாளமிடாத தரவிலிருந்து தானே மேற்பார்வைக் குறிப்புகளை உருவாக்கிக் கற்கும் முறை (BERT, GPT).
+
+![கற்றல் முறைகள் வரைபடம்](diagrams/02-learning-paradigms.png)
 
 **Reinforcement Learning (RL) — வலுவூட்டல் கற்றல்**
 வலு (strength) + ஊட்டல் (feeding) + கற்றல் (learning). ஒரு செயல்முகவர் சூழலோடு தொடர்புகொண்டு, செயல்களுக்கான வெகுமதிகள் அல்லது தண்டனைகள் மூலம் தாமாகவே கற்றுக்கொள்ளும் இயந்திரக் கற்றல் முறை.

@@ -1,41 +1,11 @@
 flowchart TB
     AGENT["செயல்முகவர்<br/>(Agent)"] --> AI_AGENT["செய்யறிவு<br/>முகவர்<br/>(AI Agent)"]
-    AI_AGENT --> AUTO["தன்னாட்சி<br/>முகவர்<br/>(Autonomous)"]
-    AI_AGENT --> ORCH["செயல்முகவர்<br/>ஒருங்கிணைப்பு<br/>(Orchestration)"]
-    ORCH --> MAS["பல்முகவர்<br/>அமைப்பு<br/>(Multi-Agent)"]
-    ORCH --> WORKFLOW["தன்னாட்சிப்<br/>பணிப்பாய்வு<br/>(Autonomous Workflow)"]
-
-    AI_AGENT --> TOOLS["கருவிகள்<br/>(Tools)"]
-    TOOLS --> TC["கருவி அழைப்பு<br/>(Tool Calling)"]
-    TOOLS --> TU["கருவிப்<br/>பயன்பாடு<br/>(Tool Use)"]
-    TOOLS --> FC["சார்பு அழைப்பு<br/>(Function Calling)"]
-    TOOLS --> MCP["மாதிரிச் சூழல்<br/>நெறிமுறை<br/>(MCP)"]
-    TU --> TF["கருவியமைப்பி<br/>(Toolformer)"]
-
-    AI_AGENT --> APPS["AI பயன்பாடுகள்"]
-    APPS --> CHAT["செய்யுரையினி<br/>(AI Chatbot)"]
-    APPS --> COPILOT["செய்யறிவுத்<br/>துணைவன்<br/>(AI Copilot)"]
-    APPS --> VIBE["சும்மா<br/>நிரலாக்கம்<br/>(Vibe Coding)"]
-    VIBE --> DEPLOY["சும்மா<br/>வெளியீடு<br/>(Vibe Deploying)"]
-    APPS --> MEM["நினைவகம்<br/>(Memory)"]
-    APPS --> CB["கூவிளி<br/>(Callback)"]
+    AI_AGENT --> ORCH["ஒருங்கிணைப்பு &<br/>தன்னாட்சி"]
+    AI_AGENT --> TOOLS["கருவிகள் &<br/>இணைப்பு"]
+    AI_AGENT --> APPS["AI<br/>பயன்பாடுகள்"]
 
     style AGENT fill:#1a4d2e,stroke:#0d3a1f,color:#fff
     style AI_AGENT fill:#1a4d2e,stroke:#0d3a1f,color:#fff
-    style TOOLS fill:#1a4d2e,stroke:#0d3a1f,color:#fff
-    style APPS fill:#1a4d2e,stroke:#0d3a1f,color:#fff
-    style AUTO fill:#e8f5e9,stroke:#1a4d2e
     style ORCH fill:#e8f5e9,stroke:#1a4d2e
-    style MAS fill:#e8f5e9,stroke:#1a4d2e
-    style WORKFLOW fill:#e8f5e9,stroke:#1a4d2e
-    style TC fill:#e8f5e9,stroke:#1a4d2e
-    style TU fill:#e8f5e9,stroke:#1a4d2e
-    style FC fill:#e8f5e9,stroke:#1a4d2e
-    style MCP fill:#e3f2fd,stroke:#1a4d2e
-    style TF fill:#e8f5e9,stroke:#1a4d2e
-    style CHAT fill:#e3f2fd,stroke:#1a4d2e
-    style COPILOT fill:#e3f2fd,stroke:#1a4d2e
-    style VIBE fill:#e3f2fd,stroke:#1a4d2e
-    style DEPLOY fill:#e3f2fd,stroke:#1a4d2e
-    style MEM fill:#e3f2fd,stroke:#1a4d2e
-    style CB fill:#e3f2fd,stroke:#1a4d2e
+    style TOOLS fill:#e8f5e9,stroke:#1a4d2e
+    style APPS fill:#e3f2fd,stroke:#1a4d2e

@@ -1,15 +1,15 @@
 # 7. உட்பொதிவுகள் & தேடல் — Embeddings & Search
 
-<!-- IMAGE: Words transforming into floating number vectors in a multidimensional space — Tamil words like "மொழி", "பொருள்" becoming glowing coordinate points, search queries connecting to nearest neighbors, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
-![உட்பொதிவுகள் & தேடல் — அத்தியாயப் படம்](images/hero-ch07.png)
-<!-- END IMAGE -->
-
 > **🎯 கற்றல் நோக்கங்கள்**
 > - உட்பொதிவுகள் (Embeddings), திசையன் (Vector), உள்ளுறை வெளி (Latent Space) ஆகிய கருத்துகளின் கலைச்சொற்களை அறிதல்
 > - திசையன் தேடல் (Vector Search), நரவலைத் தேடல் (Neural Search) போன்ற பொருள்சார் தேடல் நுட்பங்களைப் புரிந்துகொள்ளுதல்
 > - மீட்டெடுப்பு-மேம்படுத்திய இயற்றல் (RAG), அறிவு வரைபடம் (Knowledge Graph) ஆகிய அறிவுக் கட்டமைப்புகளின் கலைச்சொற்களை வேறுபடுத்தி அறிதல்
 
 ## சொற்களுக்கு முகவரி கொடுத்தால்?
+
+<!-- IMAGE: Words transforming into floating number vectors in a multidimensional space — Tamil words like "மொழி", "பொருள்" becoming glowing coordinate points, search queries connecting to nearest neighbors, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
+<img src="images/hero-ch07.png" alt="உட்பொதிவுகள் & தேடல் — அத்தியாயப் படம்" style="float:right; margin-left:20px; width:200px; border-radius:8px;">
+<!-- END IMAGE -->
 
 "வங்கி" என்ற சொல்லைப் படிக்கும்போது, அது ஆற்றின் கரையா அல்லது நிதி நிறுவனமா? மனிதர்கள் சூழலிலிருந்து இதை உடனடியாகப் புரிந்துகொள்வார்கள். ஆனால் கணினிக்கு ஒரு சொல் வெறும் எழுத்துகளின் தொகுப்பு மட்டுமே. அந்தச் சொல்லுக்குப் "பொருள்" என்ற பரிமாணத்தைக் கொடுக்க, அதை எண்களின் தொகுதியாக மாற்ற வேண்டும். இதுதான் உட்பொதிவுகளின் (Embeddings) அடிப்படைக் கருத்து.
 
@@ -24,13 +24,13 @@
 **Embeddings — உட்பொதிவுகள்** (உள்ளடக்குகள்)
 உள் (inner) + பொதி (contain). சொற்கள் அல்லது தரவுகளை AI மாதிரி புரிந்துகொள்ளும் வகையில் எண்களாக (Vectors) மாற்றியமைக்கும் முறை.
 
-![உட்பொதிவு வெளி வரைபடம்](diagrams/07-embedding-search.png)
-
 **Contextual Embedding — சூழல் உட்பொதிவு**
 சூழல் (context) + உட்பொதிவு (embedding). வாக்கியச் சூழலைப் பொறுத்து மாறும் சொல் திசையன்; நிலையான உட்பொதிவுகளுக்கு (Word2Vec) மாறாக BERT, GPT பயன்படுத்துவது.
 
 **Vector Embeddings — திசையன் உட்பொதிவுகள்** (எண்வழி உட்பொதிவுகள்)
 திசையன் (vector) + உட்பொதிவுகள் (embeddings). சொற்கள், வாக்கியங்கள் அல்லது படங்களை AI புரிந்துகொள்ளும் வகையில், அவற்றின் பொருளைப் பிரதிபலிக்கும் எண்களாக மாற்றப்பட்ட வடிவங்கள்.
+
+![உட்பொதிவு வெளி வரைபடம்](diagrams/07-embedding-search.png)
 
 **Latent Space — உள்ளுறை வெளி** (மறை வெளி)
 உள்ளுறை (latent) + வெளி (space). மாதிரி தரவின் அடிப்படைப் பண்புகளைச் சுருக்கிச் சேமிக்கும் எண் வெளி.

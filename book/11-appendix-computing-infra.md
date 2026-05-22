@@ -1,15 +1,15 @@
 # பிற்சேர்க்கை அ: கணினியியல் & உள்கட்டமைப்பு — Appendix A: Computing & Infrastructure
 
-<!-- IMAGE: Computing infrastructure layers with Tamil cultural motifs, deep green (#1a4d2e) accent, flat vector style -->
-![கணினியியல் & உள்கட்டமைப்பு — அத்தியாயப் படம்](images/hero-ch11.png)
-<!-- END IMAGE -->
-
 > **🎯 கற்றல் நோக்கங்கள்**
 > - செயலி (Application), செயலி நிரலாக்க இடைமுகம் (API), நிரலாக்க மொழி (Programming Language) ஆகிய மென்பொருள் அடிப்படைக் கலைச்சொற்களை அறிதல்
 > - முகில் கணிமை (Cloud Computing), விளிம்புநிலைச் செய்யறிவு (Edge AI), தரவு நடுவம் (Data Centre) ஆகிய உள்கட்டமைப்புக் கலைச்சொற்களைப் புரிந்துகொள்ளுதல்
 > - படவியற்றல் (Image Generation), ஒளியியல் எழுத்துணர்தல் (OCR), கூறு ஏதேனும் மாதிரி (SAM) போன்ற படவியல் & பார்வை கலைச்சொற்களை வேறுபடுத்தி அறிதல்
 
 ## AI-க்குப் பின்னால் உள்ள இயந்திரம்
+
+<!-- IMAGE: Computing infrastructure layers with Tamil cultural motifs, deep green (#1a4d2e) accent, flat vector style -->
+<img src="images/hero-ch11.png" alt="கணினியியல் & உள்கட்டமைப்பு — அத்தியாயப் படம்" style="float:right; margin-left:20px; width:200px; border-radius:8px;">
+<!-- END IMAGE -->
 
 AI மாதிரிகள் கவிதை எழுதுகின்றன, படம் வரைகின்றன, நிரல் உருவாக்குகின்றன. ஆனால் இவை அனைத்தும் இயங்குவதற்கு ஒரு வலுவான அடிப்படைக் கட்டமைப்பு தேவை. நிரலாக்க மொழிகள் (Programming Languages) கட்டளைகளை எழுத உதவுகின்றன, செயலி நிரலாக்க இடைமுகங்கள் (APIs) மென்பொருள்களை இணைக்கின்றன, முகில் கணிமை (Cloud Computing) மற்றும் தரவு நடுவங்கள் (Data Centres) கணக்கீட்டு வளங்களை வழங்குகின்றன.
 

@@ -1,15 +1,15 @@
 # 3. நரவலை & ஆழ்கற்றல் — Neural Networks & Deep Learning
 
-<!-- IMAGE: Interconnected nodes glowing in layers, inspired by kolam dot-grid patterns, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
-![நரவலை & ஆழ்கற்றல் — அத்தியாயப் படம்](images/hero-ch03.png)
-<!-- END IMAGE -->
-
 > **🎯 கற்றல் நோக்கங்கள்**
 > - நரவலை (Neural Network), செய்நரவலை (ANN), ஆழ்கற்றல் (Deep Learning) ஆகிய அடிப்படைக் கருத்துகளின் வேறுபாடுகளை அறிதல்
 > - சுருள் நரவலை (CNN), பின்னூட்ட நரவலை (RNN), இயற்றும் எதிரிடை வலை (GAN) போன்ற கட்டமைப்புகளின் கலைச்சொற்களைப் புரிந்துகொள்ளுதல்
 > - அடுக்கு (Layer), தூண்டல் சார்பு (Activation Function), குறியாக்கி (Encoder) ஆகிய உள்கூறுகளின் தமிழ்ச்சொற்களை அறிதல்
 
 ## "கோலமும் நரவலையும்"
+
+<!-- IMAGE: Interconnected nodes glowing in layers, inspired by kolam dot-grid patterns, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
+<img src="images/hero-ch03.png" alt="நரவலை & ஆழ்கற்றல் — அத்தியாயப் படம்" style="float:right; margin-left:20px; width:200px; border-radius:8px;">
+<!-- END IMAGE -->
 
 தமிழ்நாட்டின் வீட்டு வாசலில் வரையப்படும் கோலத்தின் புள்ளி வடிவம் (pulli kolam) நரவலையின் கட்டமைப்போடு ஒரு கவிதையான ஒற்றுமையைக் கொண்டுள்ளது. கோலத்தில் ஒவ்வொரு புள்ளியும் அடுத்த புள்ளியோடு இணைக்கப்படுகிறது, சிக்கலான வடிவங்கள் எளிய இணைப்புகளிலிருந்து தோன்றுகின்றன. அதேபோல் நரவலையிலும் (Neural Network) எளிய நரம்பணுக்கள் அடுக்கடுக்காக இணைக்கப்பட்டு, சிக்கலான வடிவங்களைக் கண்டறியும் திறன் பெறுகின்றன.
 

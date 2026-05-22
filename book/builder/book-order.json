@@ -39,7 +39,7 @@
         "marginBottom": "1.2em"
       },
       "diagrams/": {
-        "maxWidth": "85%",
+        "maxWidth": "80%",
         "align": "center",
         "marginTop": "0.8em",
         "marginBottom": "0.8em"

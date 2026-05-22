@@ -1,0 +1,13 @@
+flowchart TB
+    TOOLS["கருவிகள்<br/>(Tools)"] --> TC["கருவி அழைப்பு<br/>(Tool Calling)"]
+    TOOLS --> TU["கருவிப்<br/>பயன்பாடு<br/>(Tool Use)"]
+    TOOLS --> FC["சார்பு அழைப்பு<br/>(Function Calling)"]
+    TOOLS --> MCP["மாதிரிச் சூழல்<br/>நெறிமுறை<br/>(MCP)"]
+    TU --> TF["கருவியமைப்பி<br/>(Toolformer)"]
+
+    style TOOLS fill:#1a4d2e,stroke:#0d3a1f,color:#fff
+    style TC fill:#e8f5e9,stroke:#1a4d2e
+    style TU fill:#e8f5e9,stroke:#1a4d2e
+    style FC fill:#e8f5e9,stroke:#1a4d2e
+    style MCP fill:#e3f2fd,stroke:#1a4d2e
+    style TF fill:#e8f5e9,stroke:#1a4d2e

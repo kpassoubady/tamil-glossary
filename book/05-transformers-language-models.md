@@ -1,15 +1,15 @@
 # 5. மாற்றுநர் & மொழிமாதிரிகள் — Transformers & Language Models
 
-<!-- IMAGE: Neural network layers transforming text into meaning — Tamil script flowing through attention heads, transformer blocks glowing, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
-![மாற்றுநர் & மொழிமாதிரிகள் — அத்தியாயப் படம்](images/hero-ch05.png)
-<!-- END IMAGE -->
-
 > **🎯 கற்றல் நோக்கங்கள்**
 > - மாற்றுநர் (Transformer) கட்டமைப்பின் அடிப்படைக் கலைச்சொற்களைப் புரிந்துகொள்ளுதல்
 > - பெருமொழி மாதிரி (LLM), சிறுமொழி மாதிரி (SLM) உள்ளிட்ட மொழிமாதிரி வகைகளை வேறுபடுத்தி அறிதல்
 > - சொல்துண்டாக்கம் (Tokenization), முடிவுருவாக்கம் (Inference) ஆகிய செயல்முறைகளின் கலைச்சொற்களை அறிதல்
 
 ## "கவனம் மட்டுமே போதும்" — மாற்றுநர் பிறந்த கதை
+
+<!-- IMAGE: Neural network layers transforming text into meaning — Tamil script flowing through attention heads, transformer blocks glowing, deep green (#1a4d2e) accent, flat vector style with Tamil cultural motifs -->
+<img src="images/hero-ch05.png" alt="மாற்றுநர் & மொழிமாதிரிகள் — அத்தியாயப் படம்" style="float:right; margin-left:20px; width:200px; border-radius:8px;">
+<!-- END IMAGE -->
 
 2017-ல் கூகுள் நிறுவனத்தின் எட்டு ஆராய்ச்சியாளர்கள் "Attention Is All You Need" என்ற ஆராய்ச்சிக் கட்டுரையை வெளியிட்டனர். அது வரை, மொழி மாதிரிகள் சொற்களை ஒன்றன் பின் ஒன்றாக வரிசையில் படிக்கின்றன. "நான் நேற்று கடைக்கு சென்றேன்" என்ற வாக்கியத்தில் "சென்றேன்" என்ற சொல்லைப் புரிந்துகொள்ள, முதலில் "நான்", பிறகு "நேற்று", பிறகு "கடைக்கு" என்று வரிசையாகச் செயலாக்க வேண்டும். இது மிகவும் மெதுவானது.
 
