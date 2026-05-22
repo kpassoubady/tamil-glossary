@@ -1,0 +1,29 @@
+flowchart LR
+    subgraph Ingestion["📥 உட்செலுத்தல் நிரல்வழி (Ingestion Pipeline)"]
+        direction LR
+        A["📄 ஆவணங்கள்<br/>(Documents)"] --> B["✂️ உரைத்<br/>துண்டாக்கம்<br/>(Chunking)"]
+        B --> C["🔢 உட்பொதிவு<br/>மாதிரி<br/>(Embedding)"]
+        C --> D[("🗄️ திசையன்<br/>தரவுத்தளம்<br/>(Vector DB)")]
+    end
+
+    subgraph Query["🔍 வினவல் நிரல்வழி (Query Pipeline)"]
+        direction LR
+        E["❓ பயனர்<br/>வினா"] --> F["🔢 வினா<br/>உட்பொதிவு"]
+        F --> G{"ஒப்புமைத்<br/>தேடல்"}
+        D -.-> G
+        G --> H["📋 உயர்-K<br/>துண்டங்கள்<br/>(Top-K)"]
+    end
+
+    subgraph Generation["✨ இயற்றல் (Generation)"]
+        direction LR
+        H --> I["📝 தூண்டுவினா<br/>கட்டமைப்பு<br/>(சூழல் + வினா)"]
+        E -.-> I
+        I --> J["🤖 மொழி<br/>மாதிரி<br/>(LLM)"]
+        J --> K["💬 மெய்ப்பிணைப்புப்<br/>பதில்<br/>(Grounded)"]
+    end
+
+    style A fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style D fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style E fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style J fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style K fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px

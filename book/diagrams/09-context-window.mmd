@@ -1,0 +1,22 @@
+flowchart TB
+    subgraph Strategies["சூழல் சாளர மேலாண்மை (Context Window Management)"]
+        direction TB
+        A["📋 முழு வரலாறு<br/>(Full History)<br/>அனைத்தையும்<br/>அனுப்புதல்"]
+        B["✂️ துண்டித்தல்<br/>(Truncation)<br/>பழைய செய்திகளை<br/>நீக்குதல்"]
+        C["📝 சுருக்கமாக்கம்<br/>(Summarization)<br/>பழைய சுற்றுகளைச்<br/>சுருக்குதல்"]
+        D["🪟 நெகிழ் சாளரம்<br/>(Sliding Window)<br/>கடைசி N சுற்றுகளை<br/>மட்டும் வைத்தல்"]
+    end
+
+    A --> E{"சூழல்<br/>பொருந்துமா?"}
+    E -->|"ஆம்"| F["✅ அப்படியே<br/>அனுப்பு"]
+    E -->|"இல்லை"| G["உத்தி தேர்வு"]
+    G --> B
+    G --> C
+    G --> D
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style B fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style C fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style D fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style F fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style G fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px

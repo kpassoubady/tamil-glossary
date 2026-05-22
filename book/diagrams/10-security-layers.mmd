@@ -1,0 +1,17 @@
+flowchart TB
+    A["👤 பயனர்<br/>உள்ளீடு"] --> B["🛡️ அடுக்கு 1:<br/>உள்ளீடு வடிகட்டல்<br/>(Input Filtering)"]
+    B --> C["🔒 அடுக்கு 2:<br/>தனிநபர் தரவு<br/>மறைப்பு<br/>(PII Redaction)"]
+    C --> D["📝 அடுக்கு 3:<br/>வலுவான அமைப்புத்<br/>தூண்டுவினா<br/>(System Prompt)"]
+    D --> E["🤖 மொழி மாதிரி<br/>(LLM)"]
+    E --> F["🛡️ அடுக்கு 4:<br/>வெளியீடு<br/>வடிகட்டல்<br/>(Output Filtering)"]
+    F --> G["✅ அடுக்கு 5:<br/>உள்ளடக்கக்<br/>கண்காணிப்பு<br/>(Content Moderation)"]
+    G --> H["💬 பாதுகாப்பான<br/>பதில்"]
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style B fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style C fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style D fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style E fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style F fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style G fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style H fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff

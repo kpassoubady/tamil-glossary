@@ -41,7 +41,7 @@ Every chapter (01-10) must follow this exact sequence:
 
 ### 📰 AI வரலாற்றில் ஒரு துளி
 
-![வரலாற்றுப் படம்](images/drop-in-history-chNN.png)
+<img src="images/drop-in-history-chNN.png" alt="வரலாற்றுப் படம்" style="float:right; margin-left:20px; width:200px; border-radius:8px;">
 
 ---
 

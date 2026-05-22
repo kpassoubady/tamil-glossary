@@ -1,0 +1,16 @@
+flowchart LR
+    A["👤 பயனர்<br/>உள்ளீடு"] --> B{"ஊடுருவல்<br/>உள்ளதா?<br/>(Injection?)"}
+    B -->|"ஆம்"| C["🛡️ தடு +<br/>பதிவிடு<br/>(Block + Log)"]
+    B -->|"இல்லை"| D["📝 அமைப்புத்<br/>தூண்டுவினா +<br/>பயனர் உள்ளீடு"]
+    D --> E["🤖 மொழி<br/>மாதிரி<br/>(LLM)"]
+    E --> F{"வெளியீடு<br/>பாதுகாப்பானதா?"}
+    F -->|"ஆம்"| G["💬 பதிலைக்<br/>காட்டு"]
+    F -->|"இல்லை"| H["🛡️ வடிகட்டு +<br/>மாற்று"]
+    C --> I["⚠️ பாதுகாப்பான<br/>மாற்றுப் பதில்"]
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style C fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style E fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style G fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style H fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style I fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px

@@ -1,0 +1,20 @@
+flowchart TB
+    subgraph Techniques["தூண்டுவினா நுட்பங்கள் (Prompting Techniques)"]
+        direction TB
+        A["முன்மாதிரியற்ற<br/>தூண்டுதல்<br/>(Zero-Shot)<br/>நேரடி அறிவுறுத்தல்,<br/>எடுத்துக்காட்டுகள் இல்லை"]
+        B["சிறுமாதிரித்<br/>தூண்டுதல்<br/>(Few-Shot)<br/>2-5 எடுத்துக்காட்டுகள்<br/>வழி வழிகாட்டல்"]
+        C["சிந்தனைச்<br/>சங்கிலி<br/>(CoT)<br/>படிப்படியாகச்<br/>சிந்திக்கச் சொல்லுதல்"]
+        D["பாத்திரத்<br/>தூண்டுதல்<br/>(Role Prompting)<br/>நிபுணர் பாத்திரம்<br/>அளித்தல்"]
+        E["கட்டமைப்புரு<br/>வெளியீடு<br/>(Structured Output)<br/>JSON வடிவம்"]
+    end
+
+    A -->|"எடுத்துக்காட்டுகள்<br/>சேர்"| B
+    B -->|"ஏரணம்<br/>சேர்"| C
+    C -->|"பாத்திரம்<br/>சேர்"| D
+    D -->|"வடிவம்<br/>சேர்"| E
+
+    style A fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style B fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style C fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style D fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style E fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff

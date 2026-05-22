@@ -1,0 +1,40 @@
+flowchart LR
+    subgraph Input["📋 பொன்தரவுத்தொகுப்பு (Golden Dataset)"]
+        direction TB
+        A["சோதனை 1<br/>கேள்வி + எதிர்பார்ப்பு"]
+        B["சோதனை 2<br/>கேள்வி + எதிர்பார்ப்பு"]
+        C["சோதனை N<br/>கேள்வி + எதிர்பார்ப்பு"]
+    end
+
+    subgraph Run["🔄 சோதனை இயக்கி (Test Runner)"]
+        direction TB
+        D["மொழி மாதிரிக்கு<br/>அனுப்பு"] --> E["பதில் பெறு"]
+        E --> F["பதிலை<br/>மதிப்பிடு"]
+    end
+
+    subgraph Eval["📊 மதிப்பீடு (Evaluation)"]
+        direction TB
+        G["🔑 முக்கியச்சொல்<br/>பொருத்தம்<br/>(Keyword Match)"]
+        H["🧑‍⚖️ மொழிமாதிரி<br/>நடுவர்<br/>(LLM-as-Judge)"]
+    end
+
+    subgraph Report["📈 அறிக்கை (Report)"]
+        direction TB
+        I["தேர்ச்சி விகிதம்<br/>(Pass Rate)"]
+        J["சராசரி மதிப்பெண்<br/>(Avg Score)"]
+        K["தோல்வி நிகழ்வுகள்<br/>(Failed Cases)"]
+    end
+
+    Input --> Run
+    F --> Eval
+    Eval --> Report
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:1px
+    style B fill:#e3f2fd,stroke:#1a4d2e,stroke-width:1px
+    style C fill:#e3f2fd,stroke:#1a4d2e,stroke-width:1px
+    style D fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style G fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style H fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style I fill:#e8f5e9,stroke:#1a4d2e,stroke-width:1px
+    style J fill:#e8f5e9,stroke:#1a4d2e,stroke-width:1px
+    style K fill:#f3e5f5,stroke:#1a4d2e,stroke-width:1px

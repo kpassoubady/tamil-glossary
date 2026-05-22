@@ -1,0 +1,19 @@
+flowchart LR
+    A["❓ வினா<br/>திசையன்<br/>(Query Vector)"] --> B{"🔍 திசையன்<br/>தரவுத்தளத்தில்<br/>தேடல்"}
+    B --> C["📄 துண்டம் 3<br/>மதிப்பெண்: 0.94"]
+    B --> D["📄 துண்டம் 7<br/>மதிப்பெண்: 0.89"]
+    B --> E["📄 துண்டம் 1<br/>மதிப்பெண்: 0.85"]
+    B --> F["📄 துண்டம் 12<br/>மதிப்பெண்: 0.52"]
+
+    C --> G["✅ உயர்-K = 3<br/>(Top-K)"]
+    D --> G
+    E --> G
+    F -.->|"வாயில் எல்லைக்கு<br/>கீழே"| H["❌ வடிகட்டப்பட்டது"]
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style B fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style C fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style D fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style E fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style F fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style G fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff

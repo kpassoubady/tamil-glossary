@@ -1,0 +1,19 @@
+flowchart TB
+    subgraph Prompt["தூண்டுவினாவின் கட்டுமானத் தொகுதிகள் (Prompt Building Blocks)"]
+        direction TB
+        A["📋 அறிவுறுத்தல்<br/>(Instruction)<br/>என்ன செய்ய வேண்டும்"]
+        B["📄 சூழல்<br/>(Context)<br/>பின்னணித் தகவல்"]
+        C["📥 உள்ளீட்டுத் தரவு<br/>(Input Data)<br/>என்ன செயலாக்க வேண்டும்"]
+        D["📤 வெளியீட்டு வடிவம்<br/>(Output Format)<br/>எவ்வாறு பதிலளிக்க வேண்டும்"]
+    end
+
+    A --> E["✨ வினைத்திறன்<br/>தூண்டுவினா<br/>(Effective Prompt)"]
+    B --> E
+    C --> E
+    D --> E
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style B fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style C fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style D fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style E fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff

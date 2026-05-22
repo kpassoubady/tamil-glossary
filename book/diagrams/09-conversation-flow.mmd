@@ -1,0 +1,24 @@
+flowchart TB
+    A["👤 பயனர்<br/>உள்ளீடு"] --> B{"நோக்கம்<br/>கண்டறிதல்<br/>(Intent)"}
+    B -->|"வாழ்த்து"| C["👋 வரவேற்புப்<br/>பதில்"]
+    B -->|"கேள்வி"| D["🔍 வினா<br/>செயலாக்கம்"]
+    B -->|"கட்டளை"| E["⚙️ செயல்<br/>நிறைவேற்றம்"]
+    B -->|"புரியவில்லை"| F["❓ மாற்றுப்<br/>பதில் +<br/>தெளிவாக்கம்"]
+
+    D --> G{"பதிலளிக்க<br/>இயலுமா?"}
+    G -->|"ஆம்"| H["💬 பதில்<br/>உருவாக்கம்"]
+    G -->|"இல்லை"| I["🔄 மேல்நிலைக்கு<br/>அனுப்புதல்"]
+
+    H --> J["📝 உரையாடல்<br/>வரலாற்றைப்<br/>புதுப்பித்தல்"]
+    C --> J
+    E --> J
+    F --> J
+    I --> J
+    J --> K["👤 அடுத்த<br/>பயனர் உள்ளீடு"]
+    K --> B
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style B fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style H fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style F fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style J fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px

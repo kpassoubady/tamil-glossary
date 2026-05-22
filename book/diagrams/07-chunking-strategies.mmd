@@ -1,0 +1,18 @@
+flowchart TB
+    A["📄 முழு ஆவணம்<br/>(Full Document)"] --> B["உத்தி தேர்வு<br/>(Choose Strategy)"]
+
+    B --> C["📏 நிலையான அளவு<br/>(Fixed Size)<br/>ஒவ்வொரு N சொல்துண்டுகளிலும்<br/>பிரிக்கும்"]
+    B --> D["📝 பொருள்சார்<br/>(Semantic)<br/>பத்திகள், பிரிவுகள்<br/>அடிப்படையில் பிரிக்கும்"]
+    B --> E["🔄 மேற்பொருத்தம்<br/>(Overlapping)<br/>நிலையான அளவு +<br/>மேற்பொருத்தச் சாளரம்"]
+
+    C --> F["துண்டம் 1 | துண்டம் 2 | துண்டம் 3"]
+    D --> G["முன்னுரை | வழிமுறைகள் | முடிவுகள்"]
+    E --> H["துண்டம் 1 ──மேற்பொருத்தம்── துண்டம் 2"]
+
+    style A fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
+    style C fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style D fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style E fill:#f3e5f5,stroke:#1a4d2e,stroke-width:2px
+    style F fill:#e8f5e9,stroke:#1a4d2e,stroke-width:1px
+    style G fill:#e3f2fd,stroke:#1a4d2e,stroke-width:1px
+    style H fill:#f3e5f5,stroke:#1a4d2e,stroke-width:1px

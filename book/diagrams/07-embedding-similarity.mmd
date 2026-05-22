@@ -1,0 +1,16 @@
+flowchart LR
+    A["📝 உரை அ<br/>'பூனை பாயில்<br/>படுத்தது'"] --> B["🔢 உட்பொதிவு<br/>மாதிரி"]
+    B --> C["📊 திசையன்<br/>[0.021, -0.15,<br/>0.83, ..., 0.42]"]
+    C --> H{"கோண<br/>ஒப்புமை<br/>(Cosine<br/>Similarity)"}
+
+    E["📝 உரை ஆ<br/>'குட்டிப் பூனை<br/>விரிப்பில் உறங்கியது'"] --> F["🔢 உட்பொதிவு<br/>மாதிரி"]
+    F --> G["📊 திசையன்<br/>[0.019, -0.14,<br/>0.81, ..., 0.40]"]
+    G --> H
+
+    H --> I["🎯 0.94<br/>மிக ஒத்தவை!"]
+
+    style A fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style E fill:#e3f2fd,stroke:#1a4d2e,stroke-width:2px
+    style B fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style F fill:#e8f5e9,stroke:#1a4d2e,stroke-width:2px
+    style I fill:#1a4d2e,stroke:#0d3a1f,stroke-width:2px,color:#fff
