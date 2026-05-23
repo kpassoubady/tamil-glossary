@@ -1,0 +1,745 @@
+(1) பொது (General)
+
+Computer --- கணிப்பொறி / கணினி
+Personal Computer --- சொந்தக் கணிப்பொறி
+Desktop Computer --- மேசைக் கணிப்பொறி
+Laptop Computer --- மடிக் கணிப்பொறி
+Notebook Computer --- ஏட்டுக் கணிப்பொறி
+Handheld Computer --- கையகக் கணிப்பொறி
+Portable Computer --- கையடக்கக் கணிப்பொறி
+Tablet PC --- பலகைக் கணிப்பொறி / கணிப்பலகை
+Mini Computer --- குறுமுகக் கணிப்பொறி
+Mainframe Computer --- பெருமுகக் கணிப்பொறி
+Super Computer --- மீத்திறன் கணிப்பொறி
+Real Time System --- நிகழ்நேரக் கணிப்பொறி
+Multitasking --- பல்பணியாக்கம்
+Hardware --- வன்பொருள்
+Software --- மென்பொருள்
+Firmware --- நிலைபொருள்
+CPU --- மையச் செயலகம்
+Monitor --- திரையகம்
+Touch Screen --- தொடுதிரை
+Flat Monitor --- தட்டைத் திரையகம்
+Color Monitor --- வண்ணத் திரையகம்
+LCD Monitor --- நீர்மப் படிகத் திரையகம்
+Keyboard --- விசைப்பலகை
+Keyboard Driver --- விசைப்பலகை இயக்கி
+Function Key --- பணிவிசை
+Keypad --- விசைத்தளம்
+Touchpad --- தொடுதளம்
+Mouse --- சுட்டி
+Track Ball --- கோளச் சுட்டி
+Printer --- அச்சுப்பொறி
+Dot Matrix Printer --- புள்ளியணி அச்சுப்பொறி
+Inkjet Printer --- மைபீச்சு அச்சுப்பொறி
+Laser Printer --- லேசர் அச்சுப்பொறி
+Impact Print --- தொட்டச்சு
+Non-impact Print --- தொடாஅச்சு
+Scanner --- வருடி
+Plotter --- வரைவி
+Hard Disk --- நிலைவட்டு
+Compact Disk (CD) --- குறுவட்டு
+DVD --- பல்திறன் வட்டு
+Magnetic Disk --- காந்த வட்டு
+Electro Magnetic Disk --- மின்காந்த வட்டு
+Laser Disk --- லேசர் வட்டு
+Blue Ray Disk --- நீலக்கதிர் வட்டு
+Optical Disk --- ஒளி வட்டு
+Disk Drive --- வட்டு இயக்ககம்
+Floppy Disk --- நெகிழ்வட்டு
+Magnetic Tape --- காந்த நாடா
+Tape Drive --- நாடா இயக்ககம்
+Tape Catridge --- நாடாப் பேழை
+Tape Reader --- நாடாப் படிப்பி
+Mocroprocessor --- நுண்செயலி
+Chip --- சில்லு
+Memory --- நினைவகம்
+RAM --- அழியா நினைவகம்
+ROM --- நிலையா நினைவகம்
+Main Memory --- முதன்மை நினைவகம்
+Expanded Memory --- விரிவாக்க நினைவகம்
+Extended Memory --- நீட்டிப்பு நினைவகம்
+Buffer Memmory --- இடையக நினைவகம்
+Cache Memory --- இடைமாற்று நினைவகம்
+Flash Memory --- அதிவிரைவு நினைவகம்
+Virtual Memory --- மெய்நிகர் நினைவகம்
+Virtual Disk --- மெய்நிகர் வட்டு
+Memory Card --- நினைவக அட்டை
+Memory Stick --- நினைவகக் குச்சி
+Pen Drive --- பேனாச் சேமிப்பகம்
+Motherboard --- தாய்ப்பலகை
+Expansion Slot --- விரிவாக்கச் செருகுவாய்
+Socket --- பொருத்துவாய்
+Port --- துறை
+Bus --- பாட்டை
+Modem --- இணக்கி
+Operating System --- இயக்க முறைமை
+Application Softwate --- பயன்பாட்டு மென்பொருள்
+Memory Management --- நினைவக மேலாண்மை
+File Management --- கோப்பு மேலாண்மை
+Peripheral Management --- புறச்சாதன மேலாண்மை
+File --- கோப்பு
+File Extention --- கோப்பு இனப்பெயர்
+File System --- கோப்பு முறைமை
+Directory --- கோப்பகம்
+Root Directory --- மூலக் கோப்பகம்
+Sub-directory --- உட்கோப்பகம்
+Folder --- கோப்புறை
+Sub-folder --- உட்கோப்புறை
+Virus --- நச்சுநிரல்
+Anti-virus --- நச்செதிர்ப்பி
+Viral Infection --- நச்சுநிரல் தொற்று
+Malware --- தீங்குநிரல்
+Spyware --- உளவுநிரல்
+Font --- எழுத்துரு
+Multimedia --- பல்லூடகம்
+Text --- உரை
+Graphics --- வரைகலை
+Animation --- அசைவூட்டம்
+Audio --- கேட்பொலி
+Video --- நிகழ்படம்
+Stream --- தாரை
+Abort --- முறி
+Adapter --- தகவி
+Access --- அணுக்கம்
+Activation --- இயக்குவிப்பு
+Space --- இடவெளி
+Alert --- விழிப்பூட்டு
+Analog --- உவமம்
+Digital --- துடிமம்
+Signal --- குறிகை
+Backup --- காப்புநகல்
+Bandwidth --- கற்றையகன்மை
+Benchmark --- திறன்மதிப்பீடு
+Bio-informatics --- உயிரித் தகவலியல்
+Boot --- தொடக்கு
+Crash --- செயல்முடக்கம்
+Platform --- பணித்தளம்
+Cross Platform --- பல்பணித்தளம்
+Cursor --- காட்டி
+Configuration --- தகவமைப்பு
+Customize --- தனிப்பயனாக்கு
+Credit Card --- கடன் அட்டை
+Debit Card --- பற்று அட்டை
+Cash Card --- பண அட்டை
+Smart Card --- சூட்டிகை அட்டை
+Defrag --- நெருங்கமை
+Modulation --- பண்பேற்றம்
+Demodulation --- பண்பிறக்கம்
+Specification --- வரையறுப்பு
+Concept --- கருத்துரு
+Embed --- உட்பொதி
+Embedded Chip --- உட்பொதி சில்லு
+Embedded System --- உட்பொதி முறைமை
+Emulation --- போலாக்கம்
+Emulator --- போலாக்கி
+Simulation --- பாவிப்பு
+Simulator --- பாவிப்பி
+Entity --- உருபொருள்
+External Storage --- புறநிலைச் சேமிப்பு
+Internal Storage --- அகநிலைச் சேமிப்பு
+Feedback --- பின்னூட்டம்
+Open Source Software --- வெளிப்படை மூலநிரல் மென்பொருள்
+Free Software --- கட்டறு மென்பொருள்
+Freeware --- இலவச மென்பொருள்
+Global Positioning System --- உலக இருப்பிட முறைமை
+Glyph Encoding --- சிற்பக் குறியாக்கம்
+Install --- நிறுவு
+Reinstall --- மறுநிறுவு
+Morphing --- உருமாற்றம்
+Computing --- கணிப்பணி
+Multiuser System --- பல்பயனர் முறைமை
+Multiuser Environment --- பல்பயனர் பணிச்சூழல்
+Outsourcing --- அயலாக்கம்
+Piracy --- களவுநகலாக்கம்
+Privacy --- மறைபொதுக்கம்
+Pixel --- படப்புள்ளி
+Pop-up Window --- மேல்விரி சாளரம்
+Pop-up Menu --- மேல்விரி பட்டி
+Project --- திட்டப்பணி
+Prompt --- தூண்டி
+Zoom-in --- அண்மைக் காட்சி
+Zoom-out --- தொலைவுக் காட்சி
+Write-protect --- எழுது-தடுப்பு
+Icon --- சின்னம்
+Shortcut --- குறுவழி
+Standard --- தரப்பாடு
+Standardize --- தரப்படுத்து
+Task Bar --- பணிப் பட்டை
+Status Bar --- நிலைமைப் பட்டை
+Telemedicine --- தொலைமருத்துவம்
+Troubleshooting --- பழுதுகண்டு நீக்கல்
+
+(2) அலுவலகப் பயன்பாடுகள் (Office Applications)
+
+Word Processor --- சொல்செயலி
+Spreadsheet --- விரிதாள்
+Application Package --- பயன்பாட்டுத் தொகுப்பு
+Office Suite --- அலுவலகக் கூட்டுத் தொகுப்பு
+Data --- தரவு
+Database --- தரவுத்தளம்
+Presentation --- முன்வைப்பு
+Document --- ஆவணம்
+New --- புதிது
+Open --- திற
+Save --- சேமி
+Save As --- எனச் சேமி
+Close --- மூடு
+Delete --- அழி
+Remove --- நீக்கு
+Edit --- திருத்து
+Find --- கண்டறி
+Replace --- மாற்றிடு
+Find and Replace --- கண்டறிந்து மாற்றிடு
+Goto --- அங்குச் செல்
+Undo --- செய்தது தவிர்
+Redo --- தவிர்த்தது செய்
+Erase --- அழி
+Ignore --- புறக்கணி
+Format --- வடிவூட்டு / வடிவூட்டம்
+Insert --- செருகு
+View --- காட்சி
+Page Layout --- பக்க உருவரை
+Page Break --- பக்க முறிவு
+Header --- முகப்பி
+Footer --- முடிப்பி
+Marquee --- நகர் உரை
+Print --- அச்சிடு
+Print Preview --- அச்சு முன்காட்சி
+Cut --- வெட்டு
+Copy --- நகலெடு
+Paste --- ஒட்டு
+Move --- இடம்பெயர்
+Indent --- உள்தள்ளல்
+Justify --- ஓரச்சீர்மை
+Align --- நேரமை
+Alignment --- நேரமைவு
+Hyphen --- பிரிகோடு
+Hyphenation --- சொல்பிரிகை
+Padding --- இட்டுநிரப்பல்
+Margin --- ஓரவெளி
+Orientation --- திசைமுகம்
+Portrait --- நீள்மை
+Landscape --- அகன்மை
+Page Break --- பக்க முறி
+Bold --- தடிப்பு
+Italics --- சாய்வு
+Underline --- அடிக்கோடு
+Footnote --- அடிக்குறிப்பு
+Endnote --- கடைக்குறிப்பு
+Table --- அட்டவணை
+Worksheet --- பணித்தாள்
+Row --- நெடுக்கை
+Column --- கிடக்கை
+Cell --- கலம்
+Formula --- வாய்பாடு
+Label --- சிட்டை
+Macro --- குறுநிரல்
+Sorting --- வரிசையாக்கம்
+Filter --- வடிகட்டி
+Font --- எழுத்துரு
+Bullet --- பொட்டு
+Bulleted List --- பொட்டிட்ட பட்டியல்
+Template --- வார்ப்புரு
+User Friendly --- பயனர் தோழமை
+Graph --- வரைபடம்
+Chart --- நிரல்படம்
+Gridlines --- கட்டக் கோடுகள்
+Horizontal --- கிடைமட்டம்
+Vertical --- செங்குத்து
+Image --- படிமம்
+Window --- சாளரம்
+Dialogue Box --- உரையாடல் பெட்டி
+Tab --- கீற்று
+Tab Key --- தத்தல் விசை
+Tag --- ஒட்டு
+Text Box --- உரைப்பெட்டி
+Check Box --- சரிக்குறிப் பெட்டி
+List Box --- பட்டியல் பெட்டி
+Command Button --- கட்டளைப் பொத்தான்
+Dropdown List --- கீழ்விரி பட்டியல்
+Menu --- பட்டி
+Menu Options --- பட்டித் தேர்வுகள்
+Menu Bar --- பட்டிப் பட்டை
+Menu Item --- பட்டி உறுப்பு
+Tool Bar --- கருவிப் பட்டை
+Scroll Bar --- உருள் பட்டை
+Wizard --- வழிகாட்டி
+Navigate --- வழிச்செலுத்து
+Orphan --- உறவிலி
+Widow --- துணையிலி
+Pane --- பாளம்
+Panel --- பலகம்
+Frame --- சட்டகம்
+Border --- கரை
+Shading --- நிழலாக்கம்
+Filling --- நிரப்பல்
+Fill Color --- நிறம் நிரப்பு
+Style --- பாணி
+Pattern --- தோரணி
+Wordwrap --- வரிமடக்கு
+Wallpaper --- முகப்போவியம்
+
+(3) இணையம் (Internet)
+
+Internet --- இணையம்
+World Wide Web --- வைய விரிவலை
+Net / Web --- வலை
+Cyper Space --- மின்வெளி / இணையவெளி
+Cyber Community --- மின்வெளிச் சமூகம்
+Cyber Law --- இணையச் சட்டம் / மின்வெளிச் சட்டம்
+Cyber Crime --- இணையக் குற்றம் / மின்வெளிக் குற்றம்
+Netizen --- வலைவாசி
+Browser --- உலாவி
+Internet Browser --- இணைய உலாவி
+Web Browser --- வலை உலாவி
+Internet Browsing Centre --- இணைய உலா மையம்
+Internet Phone --- இணையப் பேசி
+Internet Protocol --- இணைய நெறிமுறை
+Internet Site --- இணையத்தளம்
+Internet Service Provider --- இணையச் சேவையாளர்
+Search Engine --- தேடுபொறி
+Website --- வலையகம்
+Webpage --- வலைப்பக்கம்
+Link --- தொடுப்பு
+Hyperlink --- மீத்தொடுப்பு
+Hyper Media --- மீவூடகம்
+Hyper Text --- மீவுரை
+Bookmark --- பக்கக்குறி
+Cookie --- நட்புநிரல்
+Online --- நிகழ்நிலை
+Offline --- அகல்நிலை
+Download --- பதிவிறக்கம்
+Upload --- பதிவேற்றம்
+Blog --- வலைப்பதிவு / வலைப்பூ
+E-mail --- மின்னஞ்சல்
+E-commerce --- மின்வணிகம்
+E-zine --- மின்னிதழ்
+E-cash --- மின்பணம்
+E-Governance --- மின் ஆளுகை
+E-Shopping --- மின் கடைச்செலவு
+E-Publishing --- மின் பதிப்பாக்கம்
+E-Group --- மின்குழு
+E-Community --- மின்சமூகம்
+Social Network --- சமூகப் பிணையம்
+Favorites --- கவர்விகள்
+Inbox --- மடல்பெட்டி
+Outbox --- செல்மடல் பெட்டி
+Spam Mail --- குப்பை மடல்
+Contacts --- தொடர்புகள்
+Address Book --- முகவரிப் புத்தகம்
+Mailing List --- அஞ்சல் குழு
+Attachment --- உடனிணைப்பு
+News Group --- செய்திக் குழு
+Portal --- வலைவாசல்
+Domain --- களம்
+Domain Name --- களப்பெயர்
+Domain Server --- கள வழங்கி
+Web Server --- வலை வழங்கி
+Web Client --- வலை நுகர்வி
+Web Application --- வலைப் பயன்பாடு
+Web Services --- வலைச் சேவைகள்
+Online Transaction --- நிகழ்நிலைப் பரிமாற்றம்
+Virtual Reality --- மெய்நிகர் நடப்பு
+Broadband --- அகல்கற்றை
+Webcast --- வலைபரப்பு
+Bulletin Board --- அறிக்கைப் பலகை
+Net Banking --- இணைய வங்கிச் சேவை
+Mobile Banking --- செல்பேசி வங்கிச் சேவை
+Cloud --- அயன்மை
+Cloud Computing --- அயல்கணிச் சேவை
+Cloud Provider --- அயல்கணிச் சேவையாளர்
+Cloud Services --- அயன்மைச் சேவைகள்
+External Cloud --- புறநிலை அயன்மை
+Internal Cloud --- அகநிலை அயன்மை
+
+(4) பிணையம் (Network)
+
+Network --- பிணையம்
+Server --- வழங்கி
+Client --- நுகர்வி
+File Server --- கோப்பு வழங்கி
+Node --- கணு
+Terminal --- முனையம்
+Dumb Terminal --- ஊமை முனையம்
+Intelligent Termianal --- அறிவார்ந்த முனையம்
+Remote Terminal --- சேய்மை முனையம்
+Fat Client --- கொழுத்த நுகர்வி
+Thin Client --- மெலிந்த நுகர்வி
+Workstation --- பணிநிலையம்
+Peer --- நிகரி
+Stand-alone --- தனித்தியங்கி
+Connection --- இணைப்பு
+Connector --- இணைப்பி
+Male Connector --- நுழை இணைப்பி
+Female Connector --- துளை இணைப்பி
+Network Adapter --- பிணையத் தகவி
+Network Interface Card --- பிணைய இடைமுக அட்டை
+Network Topology --- பிணைய இணைப்புமுறை
+Cable --- வடம்
+Coaxial Cable --- இணையச்சு வடம்
+Optical Fiber Cable --- ஒளி இழை வடம்
+Twisted Pair Cable --- முறுக்கிணை வடம்
+Infrared Ray --- அகச்சிவப்புக் கதிர்
+Radio Wave --- வானலை
+Microwave --- நுண்ணலை
+Baseband --- அடிக்கற்றை
+Wideband --- விரிகற்றை
+Braoadband --- அகல்கற்றை
+Layer --- அடுக்கு
+Protocol --- நெறிமுறை
+Packet --- பொதி
+Hub --- குவியம்
+Switch --- தொடர்பி
+Bridge --- இணைவி
+Router --- திசைவி
+Brouter --- இணைத்திசைவி
+Gateway --- நுழைவி
+Proxy --- பதிலி
+Priority --- முன்னுரிமை
+Local Area Network (LAN) --- குறும்பரப்புப் பிணையம்
+Campus Area Network (CAN) --- வளாகப் பரப்புப் பிணையம்
+Metro Area Network (MAN) --- மாநகர்ப் பரப்புப் பிணையம்
+Wide Area Network (WAN) --- விரிபரப்புப் பிணையம்
+Global Area Network (GAN) --- புவிப்பரப்புப் பிணையம்
+Value Added Network (VAN) --- மதிப்பேற்று பிணையம்
+Virtual Private Network (VPN) --- மெய்நிகர் தனியார் பிணையம்
+Peer-to-Peer Network --- நிகரிடைப் பிணையம்
+Neural Network --- நரம்பணுப் பிணையம்
+Wireless Network --- கம்பியில்லாப் பிணையம்
+Intranet --- அக இணையம்
+Extranet --- புற இணையம்
+Security --- பாதுகாப்பு
+Firewall --- தீச்சுவர்
+Cryptography --- மறைக்குறியீட்டியல்
+Cypher --- மறையெழுத்து
+Encypher --- மறையெழுத்தாக்கம்
+Decypher --- மறையெழுத்துவிலக்கம்
+Encoding --- குறியாக்கம்
+Decoding --- குறிவிலக்கம்
+Encryption --- மறையாக்கம்
+Decryption --- மறைவிலக்கம்
+Public Key --- பொதுத் திறவி
+Private Key --- தனித் திறவி
+Algorithm --- தீர்வுநெறி
+Username --- பயனர் பெயர்
+Password --- கடவுச்சொல்
+Login --- உள்நுழை
+Logout --- வெளியேறு
+System Administrator --- முறைமை நிர்வாகி
+Terminal --- முனையம்
+Remote Terminal --- சேய்மை முனையம்
+Share --- பகிர்வு
+File Sharing --- கோப்புப் பகிர்வு
+Unicast --- ஒருமுனைப் பரப்பு
+Multicast --- பல்முனைப் பரப்பு
+Broadcast --- அலைபரப்பு
+Rights --- உரிமைகள்
+Privileges --- சலுகைகள்
+Multiplexing --- சேர்த்திணைப்பு
+Demultiplexing --- பிரித்தெடுப்பு
+
+(5) தரவுத்தளம் (Database)
+
+Data --- தரவு
+Database --- தரவுத்தளம்
+Database Management System --- தரவுத்தள மேலாண்மை முறைமை
+Table --- அட்டவணை
+Record --- ஏடு
+Field --- புலம்
+Sorting --- வரிசையாக்கம்
+Indexing --- சுட்டுகையாக்கம்
+Relational Database --- உறவுநிலைத் தரவுத்தளம்
+Distributed Database --- பகிர்ந்தமை தரவுத்தளம்
+Query --- வினவல்
+Sort Key --- வரிசையாக்கத் திறவி
+Index Key --- சுட்டிகைத் திறவி
+Primary Key --- முதன்மைத் திறவி
+Foreign Key --- அயல் திறவி
+Unique Key --- தனியொரு திறவி
+Criteria --- வரன்முறை
+Criteria Range --- வரன்முறை வரம்பு
+Data Administeration --- தரவு நிர்வாகம்
+Data Analysis --- தரவுப் பகுப்பாய்வு
+Data Bank --- தரவு வங்கி
+Data Mine --- தரவுச் சுரங்கம்
+Data Warehouse --- தரவுக் கிடங்கு
+Data Consistency --- தரவு ஒத்திணக்கம்
+Data Integrity --- தரவு நம்பகம்
+Data Conversion --- தரவு இனமாற்றம்
+Data Manipulation --- தரவுக் கையாள்கை
+Data Processing --- தரவுச் செயலாக்கம்
+Data Validation --- தரவுத் தகுதிபார்ப்பு
+Data Verification --- தரவுச் சரிபார்ப்பு
+Data Compression --- தரவு அமுக்கம்
+Field Lock --- புலப் பூட்டு
+Record Lock --- ஏட்டுப் பூட்டு
+Normal Form --- இயல்பு வடிவம்
+Normalization --- இயல்பாக்கம்
+Purge --- அழித்தொழி
+Update --- புதுப்பி
+Duplicate --- இரட்டிப்பு
+Redundancy --- மிகைமை
+Report --- அறிக்கை
+Commit --- உறுதிசெய்
+Undelete --- மீட்டெடு
+Retrieve --- மீட்டளி
+Restore --- மீட்டமை
+Synonym --- மாற்றுப்பெயர்
+Trigger --- விசைவி
+(6) நிரலாக்கம் (Programming) ---
+Program --- நிரல்
+Code --- குறிமுறை
+Source Code --- மூலக் குறிமுறை
+Flow chart --- பாய்வுப் பட்ம்
+Statement --- கூற்று
+Command --- கட்டளை
+Instruction --- ஆணை
+Instruction Set --- ஆணைத் தொகுதி
+Translator --- பெயர்ப்பி
+Interpreter --- ஆணைபெயர்ப்பி
+Compiler --- நிரல்பெயர்ப்பி
+Low Level Language --- அடிநிலை மொழி
+Middle Level Language --- இடைநிலை மொழி
+High Level Language --- உயர்நிலை மொழி
+Assembly Language --- சில்லு மொழி
+Binary Language --- இரும மொழி
+Decimal --- பதின்மம்
+Octal --- எண்மம்
+Hexa Decimal --- பதினறுமம்
+Data Type --- தரவினம்
+Character --- குறியுரு
+Numeric --- எண்வகை
+Alphanumeric --- எழுத்தெண்வகை
+Digit --- இலக்கம்
+Floating Point --- மிதப்புப் புள்ளி
+Single Precision --- ஒற்றைத் துல்லியம்
+Double Precision --- இரட்டைத் துல்லியம்
+Priority --- முன்னுரிமை
+String --- சரம்
+Literal --- மதிப்புரு
+Null --- வெற்று
+Null String --- வெற்றுச் சரம்
+Null Pointer --- வெற்றுச் சுட்டு
+Constant --- மாறிலி
+Variable --- மாறி
+Range --- வரம்பு
+Overflow --- மிகைவழிவு
+Operator --- செயற்குறி
+Arithmatic Operator --- கணக்கீட்டுச் செயற்குறி
+Modulo Operator --- வகுமீதி செயற்குறி
+Unary Operator --- ஒருமச் செயற்குறி
+Binary Operator --- இருமச் செயற்குறி
+Expression --- கோவை
+Pointer --- சுட்டு
+Reference --- குறிப்பி
+Array --- அணி
+Matrix --- அணிக்கோவை
+Stack --- அடுக்கு
+Linked List --- தொடுப்புப் பட்டியல்
+Input --- உள்ளீடு
+Output --- வெளியீடு
+Exception --- விதிவிலக்கு
+Run Time Error --- இயக்க நேரப் பிழை
+Object Oriented Programming --- பொருள்நோக்கு நிரலாக்கம்
+Encaptulation --- உறைபொதியாக்கம்
+Inheritance --- மரபுரிமம்
+Polymorphism --- பல்லுருவாக்கம்
+Operator Overloading --- செயற்குறி பணிமிகுப்பு
+Function Overloading --- செயல்கூறு பணிமிகுப்பு
+Data Abstraction --- தரவு அருவம்
+Data Protection --- தரவுக் காப்பு
+Data Hiding --- தரவு மறைப்பு
+Garbage Collection --- நினைவக விடுவிப்பு
+Early Binding --- முந்தைய பிணைப்பு
+Late Binding --- பிந்தைய பிணைப்பு
+Dynamic Binding --- இயங்குநிலைப் பிணைப்பு
+Static Binding --- நிலைத்த பிணைப்பு
+Class --- இனக்குழு
+Derived Class --- தருவித்த இனக்குழு
+Object --- பொருள்
+Object Program --- இலக்கு நிரல்
+Method --- வழிமுறை
+Event --- நிகழ்வு
+Event Handling --- நிகழ்வுக் கையாள்கை
+Event Handler --- நிகழ்வுக் கையாளி
+Event Driven Programming --- நிகழ்வு முடுக்க நிரலாக்கம்
+Property --- பண்பு
+Attribute --- பண்பியல்பு
+Interface --- இடைமுகம்
+Decision Making Command --- தீர்மானிப்புக் கட்டளை
+Branching Statement --- கிளைபிரி கூற்று
+Declaration Statement --- அறிவிப்புக் கூற்று
+Iterate --- திரும்பச்செய்
+Iterative Statement --- திரும்பச்செய் கூற்று
+Jump Statement --- தாவல் கூற்று
+Conditional Jump --- நிபந்தனைத் தாவல்
+Control Loop --- கட்டுப்பாட்டு மடக்கி
+Finite Loop --- முடிவுறு மடக்கி
+Infinite Loop --- முடிவிலா மடக்கி
+Nested Loop --- பின்னல் மடக்கி
+Fetch Instruction --- கொணர் ஆணை
+Flow Control --- பாய்வுக் கட்டுப்பாடு
+Flush --- வழித்தெடு
+Function --- செயல்கூறு
+Procedure --- செயல்முறை
+Routine --- நிரல்கூறு
+Subroutine --- சார் நிரல்கூறு
+Module --- கூறுநிரல்
+Utility --- பயன்கூறு
+Argument --- செயலுருபு
+Parameter --- அளபுரு
+Counter --- எண்ணி
+Analysis --- பகுப்பாய்வு
+Analyst --- பகுப்பாய்வர்
+System Analyst --- முறைமைப் பகுப்பாய்வு
+System Design --- முறைமை வடிவாக்கம்
+System Development --- முறைமை உருவாக்கம்
+Bug --- வழு
+Bebug --- வழுச்சேர்ப்பு
+Debug --- வழுநீக்கு
+Error --- பிழை
+Run Time Error --- இயக்க நேரப் பிழை
+Compilation Error --- நிரல்பெயர்ப்புப் பிழை
+Error Message --- பிழைசுட்டுச் செய்தி
+Error Routine --- பிழை கையாள் நிரல்கூறு
+Error handling --- பிழை கையாள்கை
+Error Handler --- பிழை கையாளி
+Default Value --- முன்னிருப்பு மதிப்பு
+Interchange --- மாறுகொள்
+Equal --- நிகர்
+Equality --- நிகர்மை
+Equation --- நிகர்ப்பாடு
+Explicit --- வெளிப்படை
+Implicit --- உட்கிடை
+Interrupt --- குறுக்கீடு
+Language Independent Platform --- மொழிசாராப் பணித்தளம்
+Platform Independent Language --- பணித்தளம்சாரா மொழி
+Thread --- புரி
+Multithreading --- பல்புரியாக்கம்
+Optimization --- உகப்பாக்கம்
+Stream --- தாரை
+Synchronization --- ஒத்தியக்கம்
+Test --- சோதனை
+Testing --- சோதிப்பு
+Test Run --- சோதனை ஓட்டம்
+
+(6) செல்பேசி (Cellphone)
+
+Smart phone --- சூட்டிகைப் பேசி
+Menu --- பட்டி
+Select --- தேர்ந்தெடு
+Options --- தேர்வுகள்
+Back --- பின்னே
+Exit --- நீங்கு
+On --- நிகழ் / நிகழ்த்து
+Off --- அகல் / அகற்று
+Go to --- அங்கு போ
+Save --- சேமி
+Delete --- அழி
+Yes --- ஆம்
+Ok --- சரி
+No --- இல்லை
+Cancel --- விடு
+Help --- உதவி
+Show --- காண்பி
+Switch off --- அணை
+Messages --- செய்திகள்
+Create message --- செய்தி எழுது
+Inbox --- செய்திப் பெட்டி
+Drafts --- வரைவுகள்
+Outbox --- செல்மடல் பெட்டி
+Sent Items --- அனுப்பியவை
+Saved Items --- சேமித்தவை
+Send --- அனுப்பு
+Clear text --- உரை அழி
+Settings --- அமைவுகள்
+Call settings --- அழைப்பு அமைவுகள்
+Phone settings --- பேசி அமைவுகள்
+Tone settings --- ஒலி அமைவுகள்
+Display settings --- திரைக்காட்சி அமைவுகள்
+Time settings --- நேர அமைவுகள்
+Message settings --- செய்தி அமைவுகள்
+Language settings --- மொழி அமைவுகள்
+Security settings --- பாதுகாப்பு அமைவுகள்
+General settings --- பொது அமைவுகள்
+Voice messages --- குரல் செய்திகள்
+Picture messages --- படச் செய்திகள்
+Info messages --- தகவல் செய்திகள்
+Delete messages --- செய்திகள் அழி
+Text messages --- உரைச் செய்திகள்
+Multimedia messages --- பல்லூடகச் செய்திகள்
+E-mail messages --- மின்னஞ்சல் செய்திகள்
+Contacts --- தொடர்புகள்
+Search --- தேடு
+Add new contact --- புதிய தொடர்பு சேர்
+Add new group --- புதிய குழு சேர்
+Edit contact --- தொடர்பு திருத்து
+Delete contact --- தொடர்பு அழி
+Move contact --- தொடர்பு இடம்மாற்று
+Copy contact --- தொடர்பு நகலெடு
+Mark --- குறியிடு
+Mark all --- யாவும் குறியிடு
+Unmark --- குறியெடு / குறிநீக்கு
+Log --- பதிகை
+Call log --- அழைப்புப் பதிகை
+Call register --- அழைப்புப் பதிவேடு
+Recent calls --- அண்மை அழைப்புகள்
+Missed calls --- விடுபட்ட அழைப்புகள்
+Received calls --- பெற்ற அழைப்புகள்
+Dialled numbers --- அழைத்த எண்கள்
+Message recipients --- செய்தி பெறுவோர்
+Call duration --- அழைப்புக் காலம்
+Message log --- செய்திப் பதிகை
+Tones --- ஒலிப்புகள்
+Recordings --- பதிவுகள்
+Profile --- வரைவாக்கம்
+General --- பொது
+Silent --- மவுனம்
+Discreet --- ஏதேனும்
+Loud --- வெளிக்காட்டு / உரத்து
+Meeting --- கூட்டம்
+Outdoor --- வெளியிடம்
+Theme --- அழகாக்கம்
+Ringing tone --- மணி ஒலிப்பு
+Ringing volume --- ஒலிப்பு அளவு
+Vibrating alert --- அதிர்வு உணர்த்து
+Message alert tone --- செய்தி உணர்த்து ஒலி
+Connectivity --- இணைப்புநிலை
+Call --- அழை
+Call divert --- அழைப்பு திருப்பு
+Automatic redial --- தானே மறுஅழைப்பு
+Speed dialing --- விரைவு அழைப்பு
+Call waiting --- அழைப்புக் காத்திருப்பு
+Automatic keyguard --- தானியங்கு விசையரண்
+Security keyguard --- பாதுகாப்பு விசையரண்
+Welcome note --- வரவேற்புக் குறிப்பு
+Network selection --- பிணையத் தேர்வு
+Start-up tone --- தொடக்க ஒலி
+Gallery --- கலைக்கூடம்
+Images --- படிமங்கள்
+Video clips --- நிகழ்படத் துணுக்குகள்
+Music files --- இசைக் கோப்புகள்
+Media --- ஊடகம்
+Camera --- படப்பிடிப்பி
+Radio --- வானொலி
+Recorder --- பதிப்பி
+Organiser --- ஒழுங்கமைப்பி
+Clock --- மணிகாட்டி
+Alarm clock --- எழுப்பு மணி
+Alarm time --- எழுப்பு நேரம்
+Alarm tone --- எழுப்பு ஒலி
+Repeat alarm --- திரும்ப எழுப்பு
+Speaking clock --- பேசும் மணிகாட்டி
+Calendar --- நாட்காட்டி
+Notes --- குறிப்புகள்
+Calculator --- கணிப்பி
+Timer --- நேரங்காட்டி
+Stopwatch --- நிறுத்து மணிகாட்டி
+Collection --- திரட்டு
+Wallpaper --- முகப்புப் படம்
+Screen saver --- திரைக்காப்பு
+Power saver --- மின்காப்பு
+Charging --- மின்னேற்றம்
+Reminders --- நினைவுறுத்திகள்
+Demo --- வெள்ளோட்டம்
