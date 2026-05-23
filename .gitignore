@@ -7,4 +7,8 @@
 # temporary build files
 book/builder/temp
 
+# backup files from cleanup scripts
+*.bak
 
+# Python cache
+__pycache__/

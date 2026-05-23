@@ -1,0 +1,27 @@
+ஆங்கிலச் சொற்கள்	தமிழ் கலைச்சொற்கள்
+Crypto Currency	எண்மப்பணம்
+Cyber Security	இணையப் பாதுகாப்பு
+Cyber War	இணையத் தாக்கு
+Data Transfer	தரவு மாற்றல்
+E-Piracy	மின் தரவல் திருட்டு
+Computer Operator	கணிப்பொறி இயக்காளி
+Computer Personnel	கணிப்பொறிப் பணிஞர்
+Data Analysis	தரவுப் பகுப்பாய்வு
+Data Area	தரவுப் பரப்பகம்
+Data Bank	தரவு வைப்பகம்
+Data Centre	தரவு நடுவம்
+Data Circuit	தரவு மின்சுற்று
+Data Dictionary	தரவு அகரமுதலி
+Data File	தரவுக் கோப்பு
+Data Word	தரவுச் சொல்
+Data Record	தரவுப் பதிவுரு
+Data Format	தரவுப் படிவம்
+Data Management	தரவு மேலாண்மை
+Couplie	இணையர் தாமி
+E-Sports	மின் ஆட்டம்
+E-Booking	மின் பதிவு
+E-Learning	மின் கற்றல்
+E-Money Order	மின் பணவிடை
+Computer Programme	கணிப்பொறித் திட்ட நிரல்
+E-Pass	மின் இசைவுச் சீட்டு
+
