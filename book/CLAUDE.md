@@ -148,6 +148,18 @@ Apply `natural-prose-formatting` skill to all prose:
 - No hedging filler ("It's worth noting...", "In essence...")
 - Answers use `**தவறு.** explanation` (period, not em dash)
 
+## Glossary Reference
+
+When writing or reviewing chapters, consult the consolidated glossary for correct Tamil terms, alternatives, and source attribution:
+
+- **Full glossary (single file):** `docs-glossary/consolidated-glossary.md` (12,560 terms)
+- **A-Z split files:** `docs-glossary/az/a.md` through `docs-glossary/az/z.md` — use these for quick lookup by letter
+- **Index:** `docs-glossary/az/README.md` — term counts per letter
+- **Canonical CSV:** `docs-glossary/consolidated-glossary.csv` — source of truth for all edits
+- **Regenerate:** `python3 scripts/regenerate-from-csv.py` (MD) or `python3 scripts/split-glossary-az.py` (A-Z files)
+
+Source priority (highest first): காங்கேயன் பசுபதி > சொல்லாய்வு குழு > அண்ணா பல்கலைக்கழகம் > மு.சிவலிங்கம் > அ.கி. மூர்த்தி > மணவை முஸ்தபா > aangilam.org > இந்திய அரசு
+
 ## Existing Chapters (current state)
 
 Chapters 01-04, 06-10 are still in old 4-column table format. When converting:
