@@ -67,16 +67,24 @@
     },
     "admonitionHandling": {
       "enabled": true,
-      "labelLanguage": "ta"
+      "labelLanguage": "ta",
+      "padding": "4px 8px",
+      "margin": "6px 0",
+      "titleSpacing": "2px"
     },
     "footnoteHandling": {
       "enabled": true
     },
     "blockquoteListHandling": {
-      "enabled": true
+      "enabled": true,
+      "padding": "4px 8px",
+      "margin": "6px 0",
+      "titleSpacing": "2px"
     },
     "titledListHandling": {
-      "enabled": true
+      "enabled": true,
+      "margin": "6px 0",
+      "titleSpacing": "2px"
     }
   },
   "imageOptimization": {
@@ -92,6 +100,18 @@
       "jpegQuality": 95,
       "convertToJpeg": false
     }
+  },
+  "indexSettings": {
+    "enabled": true,
+    "title": "கலைச்சொல் அட்டவணை — Term Index",
+    "tocLabel": "கலைச்சொல் அட்டவணை",
+    "layout": "two-column",
+    "termPattern": "^\\*\\*(.+?)\\s*[—–]\\s*(.+?)\\*\\*",
+    "sortBy": "english",
+    "pageLabel": "",
+    "h1FontSize": "11pt",
+    "headingColor": "#1a4d2e",
+    "titleBorder": false
   },
   "chapters": [
     {
