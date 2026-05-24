@@ -435,7 +435,7 @@
 <g fill="rgb(19.999695%, 19.999695%, 19.999695%)" fill-opacity="1">
 <use xlink:href="#glyph-0-20" x="112.139873" y="206.249991"/>
 </g>
-<path fill-rule="nonzero" fill="rgb(10.198975%, 30.198669%, 18.03894%)" fill-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(5.099487%, 22.749329%, 12.159729%)" stroke-opacity="1" stroke-miterlimit="4" d="M 115.625015 0.0000135094 L 231.25002 -115.624991 L 115.625015 -231.249996 L 0.0000101982 -115.624991 Z M 115.625015 0.0000135094 " transform="matrix(0.75, 0, 0, 0.75, 176.36718, 271.96874)"/>
+<path fill-rule="nonzero" fill="rgb(100%, 92.158508%, 80.389404%)" fill-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(82.348633%, 70.588684%, 54.899597%)" stroke-opacity="1" stroke-miterlimit="4" d="M 115.625015 0.0000135094 L 231.25002 -115.624991 L 115.625015 -231.249996 L 0.0000101982 -115.624991 Z M 115.625015 0.0000135094 " transform="matrix(0.75, 0, 0, 0.75, 176.36718, 271.96874)"/>
 <use xlink:href="#source-255" transform="matrix(0.24, 0, 0, 0.24, 222.48, 159.36)"/>
 <g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
 <use xlink:href="#glyph-0-5" x="237.644521" y="170.249993"/>
@@ -747,7 +747,7 @@
 <g fill="rgb(19.999695%, 19.999695%, 19.999695%)" fill-opacity="1">
 <use xlink:href="#glyph-0-43" x="505.321603" y="341.249986"/>
 </g>
-<path fill-rule="nonzero" fill="rgb(10.198975%, 30.198669%, 18.03894%)" fill-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(5.099487%, 22.749329%, 12.159729%)" stroke-opacity="1" stroke-miterlimit="4" d="M -84.281221 -38.999994 L 84.281286 -38.999994 L 84.281286 39.000009 L -84.281221 39.000009 Z M -84.281221 -38.999994 " transform="matrix(0.75, 0, 0, 0.75, 772.570288, 137.249994)"/>
+<path fill-rule="nonzero" fill="rgb(100%, 92.158508%, 80.389404%)" fill-opacity="1" stroke-width="2" stroke-linecap="butt" stroke-linejoin="miter" stroke="rgb(82.348633%, 70.588684%, 54.899597%)" stroke-opacity="1" stroke-miterlimit="4" d="M -84.281221 -38.999994 L 84.281286 -38.999994 L 84.281286 39.000009 L -84.281221 39.000009 Z M -84.281221 -38.999994 " transform="matrix(0.75, 0, 0, 0.75, 772.570288, 137.249994)"/>
 <g clip-path="url(#clip-17)">
 <use xlink:href="#source-446" transform="matrix(0.24, 0, 0, 0.24, 731.52, 120.48)"/>
 </g>

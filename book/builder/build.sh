@@ -9,7 +9,13 @@ ROOT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)"
 ORDER_FILE="$SCRIPT_DIR/book-order.json"
 OUTPUT_DIR="$SCRIPT_DIR/pdf"
 TEMP_DIR="$SCRIPT_DIR/temp"
-FORMAT="${1:-pdf}"
+FORMAT="pdf"
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -F|--format) FORMAT="$2"; shift 2 ;;
+    *) FORMAT="$1"; shift ;;
+  esac
+done
 
 echo "Building Tamil AI Glossary ($FORMAT)..."
 echo "  Root:   $ROOT_DIR"
