@@ -1,0 +1,102 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "tamil-glossary-poc",
+  "elements": [
+    {
+      "id": "outer-ring",
+      "type": "rectangle",
+      "x": 20,
+      "y": 20,
+      "width": 360,
+      "height": 240,
+      "strokeColor": "#1a4d2e",
+      "backgroundColor": "#e8f5e9",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": { "type": 3 }
+    },
+    {
+      "id": "outer-label",
+      "type": "text",
+      "x": 110,
+      "y": 30,
+      "width": 180,
+      "height": 25,
+      "text": "மனிதர் (Human)",
+      "originalText": "மனிதர் (Human)",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#1a4d2e"
+    },
+    {
+      "id": "mid-ring",
+      "type": "rectangle",
+      "x": 60,
+      "y": 65,
+      "width": 280,
+      "height": 170,
+      "strokeColor": "#1a4d2e",
+      "backgroundColor": "#ffebcd",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": { "type": 3 }
+    },
+    {
+      "id": "mid-label",
+      "type": "text",
+      "x": 110,
+      "y": 75,
+      "width": 180,
+      "height": 25,
+      "text": "பயன்பாடு (Application)",
+      "originalText": "பயன்பாடு (Application)",
+      "fontSize": 16,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#1a4d2e"
+    },
+    {
+      "id": "inner-ring",
+      "type": "rectangle",
+      "x": 110,
+      "y": 115,
+      "width": 180,
+      "height": 95,
+      "strokeColor": "#1a4d2e",
+      "backgroundColor": "#e3f2fd",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": { "type": 3 }
+    },
+    {
+      "id": "inner-label",
+      "type": "text",
+      "x": 135,
+      "y": 140,
+      "width": 130,
+      "height": 50,
+      "text": "மாதிரி\n(Model)",
+      "originalText": "மாதிரி\n(Model)",
+      "fontSize": 18,
+      "fontFamily": 2,
+      "textAlign": "center",
+      "strokeColor": "#1a4d2e"
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "transparent",
+    "gridSize": null
+  },
+  "files": {}
+}

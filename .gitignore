@@ -13,5 +13,11 @@ book/builder/temp
 # Python cache
 __pycache__/
 
+# Node.js dependencies (installed by scripts/build-excalidraw.sh)
+node_modules/
+scripts/package.json
+scripts/package-lock.json
+scripts/.font-cache/
+
 # scratch/test files
 scratch/

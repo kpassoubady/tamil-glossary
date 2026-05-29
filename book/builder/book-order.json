@@ -78,7 +78,7 @@
   "contentProcessing": {
     "imageCaptions": {
       "enabled": true,
-      "marginTop": "-14px",
+      "marginTop": "-11px",
       "figureMarginTop": "2px",
       "figureMarginBottom": "2px"
     },
@@ -90,7 +90,14 @@
       "titleSpacing": "2px"
     },
     "footnoteHandling": {
-      "enabled": true
+      "enabled": true,
+      "placement": "endOfBook",
+      "numbering": "continuous",
+      "deduplication": false,
+      "endnotesTitle": "அடிக்குறிப்புகள்",
+      "endnotesPosition": "append",
+      "superscriptFontSize": "0.6em",
+      "endnotesSeparator": false
     },
     "blockquoteListHandling": {
       "enabled": true,
