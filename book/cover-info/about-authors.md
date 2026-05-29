@@ -19,7 +19,7 @@
 > [!TIP]
 > ஆசிரியருடன் இணைந்து தமிழ் செய்யறிவு கலைச்சொல்லாக்கத்தில் பணியாற்ற விரும்பினால் அல்லது உங்கள் கருத்துகளைப் பகிர விரும்பினால், LinkedIn, GitHub இணையதளம் வழியாகத் தொடர்புகொள்ளலாம்.
 
-**GitHub:** [tamil-glossary](https://github.com/kpassoubady/tamil-glossory)
+**GitHub:** [tamil-glossary](https://github.com/kpassoubady/tamil-glossary)
 **LinkedIn:** [kpassoubady](https://www.linkedin.com/in/kpassoubady/)
 
 > *"தமிழ் பேசும் ஒவ்வொருவரும் AI-யை தங்கள் மொழியில் பயன்படுத்தும் நாள் வரும் - அதற்கான அடித்தளம் இந்த நூல்."*
