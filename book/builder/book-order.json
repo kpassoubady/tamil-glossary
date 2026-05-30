@@ -145,6 +145,7 @@
     "tocLabel": "கலைச்சொல் அட்டவணை",
     "layout": "two-column",
     "termPattern": "^\\*\\*(.+?)\\s*[—–]\\s*(.+?)\\*\\*",
+    "pageTarget": "definition",
     "sortBy": "english",
     "pageLabel": "",
     "h1FontSize": "11pt",
