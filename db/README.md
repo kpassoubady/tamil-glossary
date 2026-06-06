@@ -1,5 +1,12 @@
 # Tamil Computing & AI Glossary Database
 
+> **Scope:** This database is a **supporting reference, not a core deliverable** of the
+> tamil-glossary project. The deliverables are `ai-tamil-glossary.md` and the `book/`.
+> This consolidated computing glossary exists to source Tamil root words (வேர்ச்சொற்கள்)
+> for the AI glossary. The dependency is one-way: the build reads `ai-tamil-glossary.md`
+> as a priority-1 input, but the AI glossary and book do not depend on this db at runtime.
+> Use it as a lookup aid.
+
 ## What this contains
 
 `glossary.db` is a SQLite database consolidating **12,560 unique English-Tamil technical terms** from 10 sources:

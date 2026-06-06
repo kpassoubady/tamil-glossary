@@ -1,6 +1,6 @@
 # Tamil Computing & AI Glossary — A-Z Index
 
-> Total terms: 12560
+> Total terms: 12562
 > Auto-generated from consolidated-glossary.csv
 
 | Letter | Terms | File |
@@ -8,10 +8,10 @@
 | #/Symbols | 225 | [symbols.md](symbols.md) |
 | A | 891 | [a.md](a.md) |
 | B | 591 | [b.md](b.md) |
-| C | 1394 | [c.md](c.md) |
+| C | 1395 | [c.md](c.md) |
 | D | 996 | [d.md](d.md) |
 | E | 498 | [e.md](e.md) |
-| F | 471 | [f.md](f.md) |
+| F | 472 | [f.md](f.md) |
 | G | 274 | [g.md](g.md) |
 | H | 376 | [h.md](h.md) |
 | I | 639 | [i.md](i.md) |

@@ -10,6 +10,12 @@ Expand and simplify `ai-tamil-glossary.md` — a comprehensive Tamil glossary fo
 4. a + b + c சொல் வேர் விளக்கம் சாத்தியமான இடங்களில்
 5. ஒருமை வடிவம் preferred
 
+## Scope: Core vs. Supporting Reference
+
+The **deliverables** of this project are `ai-tamil-glossary.md` and the `book/`. Everything else is supporting infrastructure.
+
+The consolidated computing glossary — `db/glossary.db`, `docs-glossary/consolidated-glossary.{csv,md}`, the `docs-glossary/az/` split files, and the `scripts/build-glossary-db.py` pipeline — is a **supporting reference, not core**. Its purpose is sourcing Tamil root words (வேர்ச்சொற்கள்) for the AI glossary. The dependency runs one way: the build reads `ai-tamil-glossary.md` as a priority-1 input; the AI glossary and book do not depend on the db at runtime. Treat the computing glossary as a lookup aid; do not let it dilute the AI-glossary/book focus. It is kept in this repo (rather than split out) to avoid cross-repo sync, since the build consumes `ai-tamil-glossary.md` directly.
+
 ## Required Skills (Apply Automatically)
 
 When editing any Tamil content in this project, **always** apply these skills:

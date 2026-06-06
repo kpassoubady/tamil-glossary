@@ -1,7 +1,7 @@
 # Tamil Computing & AI Glossary — F
 
 > Terms starting with 'F'
-> Total terms: 471
+> Total terms: 472
 > Auto-generated from consolidated-glossary.csv
 
 | # | English | Primary Tamil (★) | Alternatives | Domain | Sources |
@@ -477,3 +477,4 @@
 | 469 | fuzzy set | மங்கல் தொகுதி | — | general | மணவை முஸ்தபா |
 | 470 | fuzzy theroy | மங்கல் தேற்றம் | — | general | மணவை முஸ்தபா |
 | 471 | FYI | எஃப்ஒய்ஐ | — | general | மணவை முஸ்தபா |
+| 472 | File Extension | கோப்பு இனப்பெயர் | — | general | மு.சிவலிங்கம் |
