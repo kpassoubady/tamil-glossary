@@ -1,6 +1,6 @@
 # Consolidated Tamil Computing & AI Glossary
 
-> Total unique terms: 12560
+> Total unique terms: 12562
 > Auto-generated from consolidated-glossary.csv
 > Primary term (★) chosen by source priority: காங்கேயன் பசுபதி > சொல்லாய்வு குழு > அண்ணா பல்கலைக்கழகம் > மு.சிவலிங்கம் > அ.கி. மூர்த்தி > மணவை முஸ்தபா > aangilam.org > இந்திய அரசு
 
@@ -12566,3 +12566,5 @@
 | 12558 | ՍԼՏI | யுஎல்எஸ்ஐ (மிகப் பெரும் ஒருங்கிணைப்பு) | — | general | மணவை முஸ்தபா |
 | 12559 | ﻿H | எச் (பதினாறிலக்கம்) | — | general | மணவை முஸ்தபா |
 | 12560 | ﻿J | ஜே | — | general | மணவை முஸ்தபா |
+| 12561 | Cyber Space | மின்வெளி | மின்வெளி; இணையவெளி | internet | மு.சிவலிங்கம் |
+| 12562 | File Extension | கோப்பு இனப்பெயர் | — | general | மு.சிவலிங்கம் |

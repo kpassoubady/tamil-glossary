@@ -1,7 +1,7 @@
 # Tamil Computing & AI Glossary — C
 
 > Terms starting with 'C'
-> Total terms: 1394
+> Total terms: 1395
 > Auto-generated from consolidated-glossary.csv
 
 | # | English | Primary Tamil (★) | Alternatives | Domain | Sources |
@@ -1400,3 +1400,4 @@
 | 1392 | cylinder skew | உருளை ஸ்கியூ | — | general | மணவை முஸ்தபா |
 | 1393 | Cyper Space | மின்வெளி | இணையவெளி | general | மு.சிவலிங்கம் |
 | 1394 | cypher | மறையீடாக்கம் | மறையெழுத்து / மறை எழுத்து | general | அண்ணா பல்கலைக்கழகம்,மு.சிவலிங்கம்,மணவை முஸ்தபா |
+| 1395 | Cyber Space | மின்வெளி | மின்வெளி; இணையவெளி | internet | மு.சிவலிங்கம் |
