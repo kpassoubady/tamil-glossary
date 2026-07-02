@@ -1,0 +1,1 @@
+/Users/kangs/code/github/claude-personal-helper/commands/tamil-poetry-critic.md

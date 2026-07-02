@@ -1,0 +1,1 @@
+/Users/kangs/code/github/claude-personal-helper/skills/book-chapter-reviewer/SKILL.md

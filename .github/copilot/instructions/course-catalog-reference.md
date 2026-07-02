@@ -1,0 +1,1 @@
+/Users/kangs/code/github/claude-personal-helper/docs/course-catalog-reference.md

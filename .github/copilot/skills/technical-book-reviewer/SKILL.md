@@ -1,0 +1,1 @@
+/Users/kangs/code/github/claude-personal-helper/skills/technical-book-reviewer/SKILL.md

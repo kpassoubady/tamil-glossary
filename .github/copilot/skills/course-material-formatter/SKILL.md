@@ -1,0 +1,1 @@
+/Users/kangs/code/github/claude-personal-helper/skills/course-material-formatter/SKILL.md

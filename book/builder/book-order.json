@@ -144,7 +144,7 @@
     "title": "கலைச்சொல் அட்டவணை — Term Index",
     "tocLabel": "கலைச்சொல் அட்டவணை",
     "layout": "two-column",
-    "termPattern": "^\\*\\*(.+?)\\s*[—–]\\s*(.+?)\\*\\*",
+    "termPattern": "^\\*\\*([A-Za-z0-9][A-Za-z0-9 ()/&,+.'-]*?)\\s*[—–]\\s*([^*]+?)\\*\\*",
     "pageTarget": "definition",
     "sortBy": "english",
     "pageLabel": "",

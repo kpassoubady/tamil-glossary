@@ -1,0 +1,1 @@
+/Users/kangs/code/github/claude-personal-helper/skills/tamil-article-review/SKILL.md
