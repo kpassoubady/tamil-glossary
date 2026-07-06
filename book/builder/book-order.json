@@ -170,10 +170,17 @@
       "dedication": true
     },
     {
-      "section": "முன்னுரை — Preface",
+      "section": "முன்னுரை",
       "tocLabel": "முன்னுரை",
       "files": [
         "book/00-front-matter.md"
+      ]
+    },
+    {
+      "section": "அணிந்துரை",
+      "tocLabel": "அணிந்துரை",
+      "files": [
+        "book/00.1-murugu-foreword.md"
       ]
     },
     {
@@ -181,6 +188,13 @@
       "tocLabel": "‘செய்யறிவு’ ஏன்?",
       "files": [
         "book/00.5-why-seyyarivu.md"
+      ]
+    },
+    {
+      "section": "நன்றியுரை",
+      "tocLabel": "நன்றியுரை",
+      "files": [
+        "book/00.6-acknowledgments.md"
       ]
     },
     {
