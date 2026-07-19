@@ -1,0 +1,77 @@
+{
+  "bookTitle": "தமிழ் AI கலைச்சொற்கள் — பதிப்பு 3",
+  "outputFilename": "Tamil-AI-Glossary-Reference-v3.pdf",
+  "author": "Kangeyan Passoubady",
+  "language": "en-US",
+  "pageSettings": {
+    "header": "{title}",
+    "headerFallback": "{bookTitle}",
+    "headerRight": "{page} of {pages}",
+    "footerLeft": "{date}",
+    "footerCenter": "தமிழில் 300+ செய்யறிவுக் கலைச்சொற்கள்",
+    "footerRight": "கங்கா(காங்கேயன் பசுபதி) | (Kangs - Kangeyan Passoubady)",
+    "dateFormat": "%B %d, %Y"
+  },
+  "styleSettings": {
+    "pageSize": "11in 8.5in",
+    "orientation": "landscape",
+    "margins": "0.5in 0.6in 0.5in 0.6in",
+    "fontFamily": "'Noto Sans Tamil', 'Latha', 'Arial Unicode MS', Helvetica, Arial, sans-serif",
+    "monoFontFamily": "SF Mono, Monaco, Menlo, Consolas, Liberation Mono, monospace",
+    "bodyFontSize": "9pt",
+    "bodyLineHeight": "1.5",
+    "bodyColor": "#333333",
+    "headingColor": "#002B18",
+    "headingMarginTop": "0.5em",
+    "headingMarginBottom": "0.3em",
+    "h1FontSize": "15pt",
+    "h1MarginTop": "0em",
+    "h1MarginBottom": "2px",
+    "h2MarginTop": "1px",
+    "h2MarginBottom": "0.2em",
+    "h3MarginTop": "1px",
+    "h3MarginBottom": "0.2em",
+    "paragraphMarginTop": "0.2em",
+    "paragraphMarginBottom": "0.5em",
+    "h2FontSize": "12pt",
+    "h3FontSize": "11pt",
+    "h4FontSize": "10pt",
+    "codeFontSize": "8pt",
+    "tableFontSize": "9pt",
+    "tableCellPadding": "3px 8px",
+    "tableMargin": "0.3em 0",
+    "tableTextAlign": "left",
+    "tableAlign": "left",
+    "codeBackground": "#f5f5f5",
+    "linkColor": "#0066cc",
+    "headerFontSize": "9px",
+    "footerFontSize": "8px"
+  },
+  "tocSettings": {
+    "showMainToc": false
+  },
+  "contentProcessing": {
+    "footnoteHandling": {
+      "enabled": true,
+      "placement": "endOfBook",
+      "numbering": "continuous",
+      "deduplication": false,
+      "endnotesTitle": "அடிக்குறிப்புகள்",
+      "endnotesPosition": "append",
+      "superscriptFontSize": "0.6em",
+      "endnotesSeparator": false
+    }
+  },
+  "indexSettings": {
+    "enabled": false
+  },
+  "chapters": [
+    {
+      "section": "தமிழ் AI கலைச்சொற்கள் — Tamil AI Glossary",
+      "tocLabel": "கலைச்சொற்கள்",
+      "files": [
+        "ai-tamil-glossary.md"
+      ]
+    }
+  ]
+}
