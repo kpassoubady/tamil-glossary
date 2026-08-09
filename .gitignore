@@ -25,3 +25,4 @@ llm-context/
 reviews/
 
 config.local.json
+.playwright-mcp

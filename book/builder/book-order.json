@@ -152,6 +152,11 @@
     "headingColor": "#1a4d2e",
     "titleBorder": false
   },
+  "figureIndexSettings": {
+    "enabled": true,
+    "placement": "frontMatter",
+    "align": "left"
+  },
   "chapters": [
     {
       "section": "Front Cover",
