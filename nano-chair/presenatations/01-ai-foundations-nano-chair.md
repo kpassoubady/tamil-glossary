@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 style: |
-  @import url("https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v8/term-chair/term-chair.css");
+  @import url("https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/term-chair.css");
   section { animation: fadeIn 0.6s ease-in; }
   @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
   .term-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-top: 0.6em; }
@@ -38,7 +38,7 @@ style: |
 
 நூல்: AI அலை: நீங்கள் தயாரா? | நுண் பயிலரங்கு
 
-<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v8/term-chair/logo.png" />
+<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/logo.png" />
 
 ---
 
@@ -59,7 +59,7 @@ style: |
 # பகுதி 1
 ## செய்யறிவின் மூன்று நிலைகள் (Levels of AI)
 
-<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v8/term-chair/logo.png" />
+<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/logo.png" />
 
 ---
 
@@ -129,7 +129,7 @@ style: |
 # பகுதி 2
 ## நவீன AI வகைகள் (Modern AI Types, 2023+)
 
-<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v8/term-chair/logo.png" />
+<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/logo.png" />
 
 ---
 
@@ -198,7 +198,7 @@ ChatGPT ஒரு கட்டுரையை எழுதித் தருவ
 # பகுதி 3
 ## வெளியீட்டு முறையும் அடித்தளமும் (Openness & Foundation)
 
-<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v8/term-chair/logo.png" />
+<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/logo.png" />
 
 ---
 
@@ -320,4 +320,4 @@ AI மாதிரியின் அளவு பெருகும்போத
 கங்கா வளர் தொழில்நுட்பக் கலைச்சொல் ஆய்விருக்கை, யூ.எஸ்.ஏ.
 Ganga Emerging Technology Terminology Research Chair, USA
 
-<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v8/term-chair/logo.png" />
+<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/logo.png" />

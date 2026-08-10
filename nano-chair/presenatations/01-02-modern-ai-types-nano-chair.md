@@ -5,7 +5,7 @@ paginate: true
 header: "நவீன AI வகைகள்"
 footer: "AI அலை: நீங்கள் தயாரா? தமிழில் 300+ செய்யறிவுக் கலைச்சொற்கள்"
 style: |
-  @import url("https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v9/term-chair/term-chair.css");
+  @import url("https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/term-chair.css");
   section { animation: fadeIn 0.6s ease-in; }
   @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
   .term-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-top: 0.6em; }
@@ -24,7 +24,7 @@ style: |
 <!-- _class: lead -->
 <!-- _paginate: false -->
 
-<div class="badge-row"><span class="badge chapter">அத்தியாயம் 1</span><span class="badge part">பகுதி 2</span></div>
+<div class="badge-row"><span class="badge tnc">TNC55</span><span class="badge chapter">அத்தியாயம் 1</span><span class="badge part">பகுதி 2</span></div>
 
 # நவீன AI வகைகள் = <span class="word-root">இயற்று</span> + <span class="word-root">செயலூக்கம்</span> + <span class="word-root">பன்முகம்</span>
 
@@ -32,7 +32,7 @@ style: |
 
 நூல்: AI அலை: நீங்கள் தயாரா? | நுண் பயிலரங்கு
 
-<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v9/term-chair/logo.png" />
+<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/logo.png" />
 
 ---
 
@@ -121,7 +121,7 @@ ChatGPT ஒரு கட்டுரையை எழுதித் தருவ
 <!-- _class: lead -->
 <!-- _paginate: false -->
 
-<div class="badge-row"><span class="badge chapter">அத்தியாயம் 1</span><span class="badge part">பகுதி 3</span></div>
+<div class="badge-row"><span class="badge tnc">TNC55</span><span class="badge chapter">அத்தியாயம் 1</span><span class="badge part">பகுதி 3</span></div>
 
 # அடுத்து: உணர்வும் பண்பாடும்
 
@@ -129,4 +129,4 @@ ChatGPT ஒரு கட்டுரையை எழுதித் தருவ
 
 <span style="font-size:0.55em; color:rgba(253,249,240,0.75)">கங்கா வளர் தொழில்நுட்பக் கலைச்சொல் ஆய்விருக்கை, யூ.எஸ்.ஏ.<br>Ganga Emerging Technology Terminology Research Chair, USA</span>
 
-<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v9/term-chair/logo.png" />
+<img class="logo" src="https://cdn.jsdelivr.net/gh/kpassoubady/marp-themes@v10/term-chair/logo.png" />
