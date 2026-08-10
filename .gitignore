@@ -26,3 +26,4 @@ reviews/
 
 config.local.json
 .playwright-mcp
+pdf/
